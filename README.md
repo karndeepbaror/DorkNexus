@@ -22,7 +22,7 @@ A curated and categorized list of *200+ Google Dorks* useful for OSINT, Reconnai
 
 
 
-****📂 Categories:***"
+****📂 Categories:****
  
 
 •  🔐 Credentials & Sensitive Information  
